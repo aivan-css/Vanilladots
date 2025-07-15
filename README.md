@@ -90,7 +90,7 @@ hyprctl reload
 ## 💬 notes
 
 * wallpaper not included—use a soft dark floral or grainy film photo
-* rofi theme includes transparency + accent colors to match the vibe
+* rofi theme is one of the basic ones i lwk forgot
 * waybar icons rely on nerd fonts
 * spicetify may need tweaking based on your Spotify version
 * zsh prompt uses powerlevel10k (optional)
