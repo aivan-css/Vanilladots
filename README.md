@@ -67,7 +67,7 @@ powerlevel10k
 ### 1. clone this repo
 
 ```bash
-git clone https://github.com/yourname/vanilla
+git clone https://github.com/aivan-css/Vanilladots
 ```
 
 ### 2. move configs into place
