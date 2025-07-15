@@ -70,7 +70,7 @@ git clone https://github.com/aivan-css/Vanilladots
 ### 2. move configs into place
 
 ```bash
-cd vanilla
+cd Vanilladots
 cp -r .config/* ~/.config/
 ```
 
