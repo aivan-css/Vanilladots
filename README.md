@@ -33,7 +33,6 @@ hyprpaper
 waybar
 rofi
 kitty
-zsh
 ttf-nerd-fonts-symbols
 ````
 
@@ -55,8 +54,6 @@ powerlevel10k
 .config/
 ├── hypr        # hyprland config (blur, binds, etc.)
 ├── waybar      # bar layout + style
-├── hyprpaper   # wallpaper
-├── kitty       # terminal colors
 └── fastfetch  # we all know what this is
 ```
 
