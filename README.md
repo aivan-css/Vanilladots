@@ -57,7 +57,7 @@ powerlevel10k
 ├── waybar      # bar layout + style
 ├── hyprpaper   # wallpaper
 ├── kitty       # terminal colors
-└── fastfetch  # (optional) spotify theme
+└── fastfetch  # we all know what this is
 ```
 
 ---
