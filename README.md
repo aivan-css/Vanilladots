@@ -1,13 +1,12 @@
 
 
 # 🌸 vanilla – a hyprland rice
-```bash
+
 a moody, minimal hyprland setup inspired by the vanilla flower.  
 soft, cinematic, and peaceful—built for quiet nights and clean screens.
 
 > originally posted as [absolute cinema](https://www.reddit.com/r/unixporn/comments/1lzvi2j/hyprland_absolute_cinema/) on r/unixporn  
 > shared because people asked 💜
-```
 
 check the friggin reddit boi
 ---
