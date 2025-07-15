@@ -10,7 +10,7 @@ soft, cinematic, and peaceful—built for quiet nights and clean screens.
 
 ## 📸 preview
 
-![screenshot](./screenshot.png)
+check the reddit idk how to do ts
 
 ---
 
